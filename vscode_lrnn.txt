@@ -1,0 +1,90 @@
+# extensions for VsCode IDE - I love That
+# help = ext_name : install model/usage rate/do you need to enter the setting manualy or not (how can i use?? cmd) {Note}
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+1- Emmet : default install/low use
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+2- Auto rename tag : extension install/null/set up
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+3- Material icon theme : extension install/high use/setting is default
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+4- code snap : extension install/mid use/setting is both
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+5- glassit-vsc : extension install/low use/set up (ctrl.alt.z/ctrl.alt.c)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+6- project manager : extension install/High use/setting is default (project manager : save f1 please)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+7- css Intellisense :extension install/high use/setting is default {Intellisense command : ctrl + space}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+8- prettier : extension install/high use/set up
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+9- todo tree : extension install/high use/setting is default (todo tree command : #TODO / #FIXME in line)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+10- Better Comments : extension install/high use/setting is default (Better Comments command : #!.../ #?.../....)
+
+	{"better-comments.tags": [
+	  {
+	    "tag": "!",
+	    "color": "#FF2D00",
+	    "strikethrough": false,
+	    "underline": false, 
+	    "backgroundColor": "transparent",
+	    "bold": false,
+	    "italic": false
+	  },
+	  {
+	    "tag": "?",
+	    "color": "#3498DB",
+	    "strikethrough": false,
+	    "underline": false,
+	    "backgroundColor": "transparent",
+	    "bold": false,
+	    "italic": false
+	  },
+	  {
+	    "tag": "//",
+	    "color": "#474747",
+	    "strikethrough": true,
+	    "underline": false,
+	    "backgroundColor": "transparent",
+	    "bold": false,
+	    "italic": false
+	  },
+	  {
+	    "tag": "todo",
+	    "color": "#FF8C00",
+	    "strikethrough": false,
+	    "underline": false,
+	    "backgroundColor": "transparent",
+	    "bold": false,
+	    "italic": false
+	  },
+	  {
+	    "tag": "*",
+	    "color": "#98C379",
+	    "strikethrough": false,
+	    "underline": false,
+	    "backgroundColor": "transparent",
+	    "bold": false,
+	    "italic": false
+	  }
+	]}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+11- Document This : extension install/mid use/setting is default
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+12- Live Server : extension install/high use/setting is default
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+13- themes items name : one dark pro / night owl / monokai pro / Dracula / atom one dark
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+14- code spell checker : extension install/mid use/setting is default
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+15- Live share & Live share Audio & Live share Extension Pack: extension install/high use/setting is default (Github or Microsoft account)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+16- Word Wrap : default install/high use/setting.json : editor.wordwrap = "bounded", editor.wordwrapColumn = "Number"
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+17- WakaTime : default install & {https://wakatime.com/dashboard} sign up/high use/setting : api key from site to vs code and run
+################################################################################################################################################################
+18- # https://sabzlearn.ir/course/vscode-tutorial/
+################################################################################################################################################################
+
