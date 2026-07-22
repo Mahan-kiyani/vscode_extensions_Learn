@@ -83,8 +83,10 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 16- Word Wrap : default install/high use/setting.json : editor.wordwrap = "bounded", editor.wordwrapColumn = "Number"
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-17- WakaTime : default install & {https://wakatime.com/dashboard} sign up/high use/setting : api key from site to vs code and run
+17-Bracket pair colorizer : default install/high use/setting is default
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+18- WakaTime : default install & {https://wakatime.com/dashboard} sign up/high use/setting : api key from site to vs code and run
 ################################################################################################################################################################
-18- # https://sabzlearn.ir/course/vscode-tutorial/
+19- # https://sabzlearn.ir/course/vscode-tutorial/
 ################################################################################################################################################################
 
